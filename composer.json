@@ -1,6 +1,6 @@
 {
     "name": "gioppy/statamic-metatags",
-    "description": "An addon for Statamic 3 to manage and customize any meta tag.",
+    "description": "An addon for Statamic 4 to manage and customize any meta tag.",
     "autoload": {
         "psr-4": {
           "Gioppy\\StatamicMetatags\\": "src"
@@ -25,7 +25,7 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "statamic/cms": "^3.3"
+        "statamic/cms": "^4.0"
     },
     "config": {
         "allow-plugins": {
